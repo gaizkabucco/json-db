@@ -1,0 +1,52 @@
+[
+	{
+		"id": 1,
+		"squareMtr": 100,
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"price": 900,
+		"city": "Madrid",
+		"favorite": false,
+		"img": "./img/1.avif"
+	},
+	{
+		"id": 2,
+		"squareMtr": 60,
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"price": 600,
+		"city": "Madrid",
+		"favorite": false,
+		"img": "./img/2.avif"
+	},
+	{
+		"id": 3,
+		"squareMtr": 75,
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"price": 700,
+		"city": "Barcelona",
+		"favorite": false,
+		"img": "./img/3.avif"
+	},
+	{
+		"id": 4,
+		"squareMtr": 45,
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"price": 500,
+		"city": "Barcelona",
+		"favorite": false,
+		"img": "./img/4.avif"
+	},
+	{
+		"id": 5,
+		"squareMtr": 80,
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"price": 650,
+		"city": "Valencia",
+		"favorite": false,
+		"img": "./img/5.avif"
+	}
+]
