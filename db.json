@@ -1,54 +1,95 @@
 {
 	"apartments": [
-		{
-			"id": 1,
-			"squareMtr": 100,
-			"bedrooms": 3,
-			"bathrooms": 2,
-			"price": 900,
-			"city": "Madrid",
-			"favorite": false,
-			"img": "./img/1.avif"
-		},
-		{
-			"id": 2,
-			"squareMtr": 60,
-			"bedrooms": 2,
-			"bathrooms": 1,
-			"price": 600,
-			"city": "Madrid",
-			"favorite": false,
-			"img": "./img/2.avif"
-		},
-		{
-			"id": 3,
-			"squareMtr": 75,
-			"bedrooms": 2,
-			"bathrooms": 1,
-			"price": 700,
-			"city": "Barcelona",
-			"favorite": false,
-			"img": "./img/3.avif"
-		},
-		{
-			"id": 4,
-			"squareMtr": 45,
-			"bedrooms": 1,
-			"bathrooms": 1,
-			"price": 500,
-			"city": "Barcelona",
-			"favorite": false,
-			"img": "./img/4.avif"
-		},
-		{
-			"id": 5,
-			"squareMtr": 80,
-			"bedrooms": 2,
-			"bathrooms": 1,
-			"price": 650,
-			"city": "Valencia",
-			"favorite": false,
-			"img": "./img/5.avif"
-		}
-	]
+	{
+		"id": 1,
+		"squareMtr": 34,
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"price": 550,
+		"city": "Madrid",
+		"favorite": false,
+		"img": [
+			"./img/id1/id1-1.avif",
+			"./img/id1/id1-2.avif",
+			"./img/id1/id1-3.avif",
+			"./img/id1/id1-4.avif",
+			"./img/id1/id1-5.avif",
+			"./img/id1/id1-6.avif",
+			"./img/id1/id1-7.avif",
+			"./img/id1/id1-8.avif"
+		]
+	},
+	{
+		"id": 2,
+		"squareMtr": 60,
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"price": 600,
+		"city": "Madrid",
+		"favorite": false,
+		"img": [
+			"./img/id2/id2-1.avif",
+			"./img/id2/id2-2.avif",
+			"./img/id2/id2-3.avif",
+			"./img/id2/id2-4.avif",
+			"./img/id2/id2-5.avif",
+			"./img/id2/id2-6.avif",
+			"./img/id2/id2-7.avif"
+		]
+	},
+	{
+		"id": 3,
+		"squareMtr": 30,
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"price": 590,
+		"city": "Barcelona",
+		"favorite": false,
+		"img": [
+			"./img/id3/id3-1.avif",
+			"./img/id3/id3-2.avif",
+			"./img/id3/id3-3.avif",
+			"./img/id3/id3-4.avif",
+			"./img/id3/id3-5.avif"
+		]
+	},
+	{
+		"id": 4,
+		"squareMtr": 46,
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"price": 775,
+		"city": "Barcelona",
+		"favorite": false,
+		"img": [
+			"./img/id4/id4-1.avif",
+			"./img/id4/id4-2.avif",
+			"./img/id4/id4-3.avif",
+			"./img/id4/id4-4.avif",
+			"./img/id4/id4-5.avif",
+			"./img/id4/id4-6.avif",
+			"./img/id4/id4-7.avif",
+			"./img/id4/id4-8.avif"
+		]
+	},
+	{
+		"id": 5,
+		"squareMtr": 72,
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"price": 695,
+		"city": "Valencia",
+		"favorite": false,
+		"img": [
+			"./img/id5/id5-1.avif",
+			"./img/id5/id5-2.avif",
+			"./img/id5/id5-3.avif",
+			"./img/id5/id5-4.avif",
+			"./img/id5/id5-5.avif",
+			"./img/id5/id5-6.avif",
+			"./img/id5/id5-7.avif",
+			"./img/id5/id5-8.avif"
+		]
+	}
+]
 }
