@@ -10,13 +10,13 @@
 		"favorite": false,
 		"img": [
 			"./img/id1/id1-1.png",
-			"./img/id1/id1-2.avif",
-			"./img/id1/id1-3.avif",
-			"./img/id1/id1-4.avif",
-			"./img/id1/id1-5.avif",
-			"./img/id1/id1-6.avif",
-			"./img/id1/id1-7.avif",
-			"./img/id1/id1-8.avif"
+			"./img/id1/id1-2.png",
+			"./img/id1/id1-3.png",
+			"./img/id1/id1-4.png",
+			"./img/id1/id1-5.png",
+			"./img/id1/id1-6.png",
+			"./img/id1/id1-7.png",
+			"./img/id1/id1-8.png"
 		]
 	},
 	{
@@ -28,13 +28,13 @@
 		"city": "Madrid",
 		"favorite": false,
 		"img": [
-			"./img/id2/id2-1.avif",
-			"./img/id2/id2-2.avif",
-			"./img/id2/id2-3.avif",
-			"./img/id2/id2-4.avif",
-			"./img/id2/id2-5.avif",
-			"./img/id2/id2-6.avif",
-			"./img/id2/id2-7.avif"
+			"./img/id2/id2-1.png",
+			"./img/id2/id2-2.png",
+			"./img/id2/id2-3.png",
+			"./img/id2/id2-4.png",
+			"./img/id2/id2-5.png",
+			"./img/id2/id2-6.png",
+			"./img/id2/id2-7.png"
 		]
 	},
 	{
@@ -46,11 +46,11 @@
 		"city": "Barcelona",
 		"favorite": false,
 		"img": [
-			"./img/id3/id3-1.avif",
-			"./img/id3/id3-2.avif",
-			"./img/id3/id3-3.avif",
-			"./img/id3/id3-4.avif",
-			"./img/id3/id3-5.avif"
+			"./img/id3/id3-1.png",
+			"./img/id3/id3-2.png",
+			"./img/id3/id3-3.png",
+			"./img/id3/id3-4.png",
+			"./img/id3/id3-5.png"
 		]
 	},
 	{
@@ -62,14 +62,14 @@
 		"city": "Barcelona",
 		"favorite": false,
 		"img": [
-			"./img/id4/id4-1.avif",
-			"./img/id4/id4-2.avif",
-			"./img/id4/id4-3.avif",
-			"./img/id4/id4-4.avif",
-			"./img/id4/id4-5.avif",
-			"./img/id4/id4-6.avif",
-			"./img/id4/id4-7.avif",
-			"./img/id4/id4-8.avif"
+			"./img/id4/id4-1.png",
+			"./img/id4/id4-2.png",
+			"./img/id4/id4-3.png",
+			"./img/id4/id4-4.png",
+			"./img/id4/id4-5.png",
+			"./img/id4/id4-6.png",
+			"./img/id4/id4-7.png",
+			"./img/id4/id4-8.png"
 		]
 	},
 	{
@@ -81,14 +81,14 @@
 		"city": "Valencia",
 		"favorite": false,
 		"img": [
-			"./img/id5/id5-1.avif",
-			"./img/id5/id5-2.avif",
-			"./img/id5/id5-3.avif",
-			"./img/id5/id5-4.avif",
-			"./img/id5/id5-5.avif",
-			"./img/id5/id5-6.avif",
-			"./img/id5/id5-7.avif",
-			"./img/id5/id5-8.avif"
+			"./img/id5/id5-1.png",
+			"./img/id5/id5-2.png",
+			"./img/id5/id5-3.png",
+			"./img/id5/id5-4.png",
+			"./img/id5/id5-5.png",
+			"./img/id5/id5-6.png",
+			"./img/id5/id5-7.png",
+			"./img/id5/id5-8.png"
 		]
 	}
 ]
